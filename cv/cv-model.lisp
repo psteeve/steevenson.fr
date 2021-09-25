@@ -42,7 +42,6 @@
                                         "Jira"
                                         "TSLint"
                                         "VSCode")
-                               
                                :methodologies (
                                                "Agile"
                                                "Scrum")

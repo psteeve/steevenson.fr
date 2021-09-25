@@ -142,7 +142,6 @@
                                           "Réduction de la dette technique"
                                           "Correction de bugs")
                             :environnement ("AngularJS (1.5)"  "Less" "Lodash" "Node.js" "Grunt" "Jenkins" "CSS/HTML" "Jasmine" "PhantomJS."))
-                           
                            (
                             :client "SOCIETE GENERALE - Private Banking"
                             :role "Développeur Front End"
@@ -152,9 +151,7 @@
                                           "Développement de nouvelles fonctionnalités et intégration de maquettes UX/UI"
                                           "Mise en place des tests end to end"
                                           "Réduction de la dette technique / Correction de bug")
-                            
                             :environnement ("AngularJS (1.5)" "Less" "UnderscoreJS" "Node.js" "Gulp" "Java" "Spring" "Jenkins" "CSS/HTML" "Protractor" "Jasmine")
-                            
                             (
                              :client "Unevalisedeplus.com"
                              :role "Développeur Full-stack"
@@ -168,7 +165,6 @@
                                            "Conception et implantation des API REST qui permettent aux clients et serveurs d'échanger des données via des WebServices"
                                            " Configuration de Nginx en serveur 'reverse proxy'"
                                            "Mise en production de l'application. ")
-                             
                              :environnement (
                                              "Angular Material (v1.5.8)"
                                              "JavaScript (ES6)"
@@ -198,7 +194,6 @@
                                            " Création d’un système automatisé en bash de mailing  aux managers"
                                            "Mise en production de l'application")
                              :environnement ("Angular Material (v1.5.8)" "JavaScript (ES6)" "HTML5" "CSS3" "Material Design Lite" "Angularjs v1.6.1" "Couchdb v1.6.1" "mocha v3.0.2" "protractor v4.0.11" "Nginx v1.11.6" "Nodejs v6.7.0" "equest.js v2.78.0" "Express.js v4.14.0" "Lodash v4.17.14" "ChartJS" "Jquery 2.2.3" "Docker"))
-                            
                             (
                              :client "GILLETTE LEUWAT FRANCE"
                              :role "Développeur Full-stack"
